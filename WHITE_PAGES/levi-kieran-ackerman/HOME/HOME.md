@@ -1,3 +1,4 @@
+assets: ["the-ackermans.jpg"]
 ---
 resident: levi-kieran-ackerman
 ---
